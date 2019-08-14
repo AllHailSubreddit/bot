@@ -1,0 +1,12 @@
+# Example docker-compose file for running this docker container with various options.
+# 1. Update the options to suit your needs
+# 2. Place the file somewhere like /etc/opt/bot/ or ~/
+version: '3.7'
+services:
+  cfb-trivia:
+    image: allhail/bot:latest
+    env_file: .env
+    command: cfb-trivia
+  postgres:
+    image: postgres:11.5-alpine
+    env_file: .env
