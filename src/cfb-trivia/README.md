@@ -1,7 +1,7 @@
 # cfb-trivia
 
 Finds the latest trivia submission on the /r/CFB subreddit, crossposts it to the
-subreddit configured via the REDDIT_SUBREDDIT environment variable, and posts a
+subreddit configured via the `REDDIT_SUBREDDIT` environment variable, and posts a
 comment to the new submission encouraging users to play for our trivia team.
 
 ## Installation
