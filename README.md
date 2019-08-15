@@ -1,8 +1,6 @@
 # /u/AllHail_Bot
 
-![Docker Build Status]
-
-[Docker Build Status]: https://img.shields.io/docker/cloud/build/allhail/bot
+[![Docker Build Status]](https://img.shields.io/docker/cloud/build/allhail/bot)
 
 A collection of Node.js scripts that perform the functions of /u/AllHail_Bot.
 
