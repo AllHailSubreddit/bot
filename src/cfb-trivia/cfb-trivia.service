@@ -1,0 +1,10 @@
+[Unit]
+Description=Encourages users to play the latest /r/CFB trivia
+Documentation=https://github.com/AllHailSubreddit/bot/tree/master/src/cfb-trivia
+Documentation=https://github.com/AllHailSubreddit/bot/
+After=docker.service
+Requires=docker.service
+
+[Service]
+WorkingDirectory=/etc/opt/allhail
+ExecStart=/usr/local/bin/docker-compose run --rm cfb-trivia

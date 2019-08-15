@@ -6,14 +6,14 @@ const {
   REDDIT_SUBREDDIT,
   REDDIT_USERNAME,
 } = process.env;
-const { version: VERSION } = require("../package");
+const { name: NAME, version: VERSION, author: AUTHOR } = require("./package");
 const pino = require("pino");
 const Snoowrap = require("snoowrap");
 
 // globals
 const logger = pino({ level: LOG_LEVEL });
 const reddit = new Snoowrap({
-  userAgent: `nodejs:org.allhail.bot.cfb-trivia:v${VERSION} (by /u/pushECX)`,
+  userAgent: `nodejs:org.allhail.bot.${NAME}:v${VERSION} (by ${AUTHOR})`,
   clientId: REDDIT_CLIENT_ID,
   clientSecret: REDDIT_CLIENT_SECRET,
   username: REDDIT_USERNAME,
