@@ -18,6 +18,7 @@ the steps below.
 - Ensure values in both files are filled out and correct.
 
 [docker-compose.example.yml]: docker-compose.example.yml
+[.env.example]: .env.example
 
 ## Usage
 
