@@ -8,7 +8,7 @@ comment to the new submission encouraging users to play for our trivia team.
 
 See the [main README.md] for initial installation details.
 
-[main README.md]: ../../
+[main README.md]: ../../README.md
 
 ### systemd
 
