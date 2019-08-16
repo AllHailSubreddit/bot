@@ -7,6 +7,10 @@ services:
     image: allhail/bot:latest
     env_file: .env
     command: cfb-trivia
+  migrate:
+    image: allhail/bot:latest
+    env_file: .env
+    command: migrate
   postgres:
     image: postgres:11.5-alpine
     env_file: .env
