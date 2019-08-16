@@ -3,5 +3,8 @@ Description=Triggers cfb-trivia.service
 Documentation=https://github.com/AllHailSubreddit/bot/tree/master/cfb-trivia
 Documentation=https://github.com/AllHailSubreddit/bot/
 
+[Install]
+WantedBy=timers.target
+
 [Timer]
 OnCalendar=Tue 16:00
