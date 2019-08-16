@@ -6,5 +6,5 @@ After=docker.service
 Requires=docker.service
 
 [Service]
-WorkingDirectory=/etc/opt/allhail
+WorkingDirectory=/etc/opt/allhail/bot
 ExecStart=/usr/local/bin/docker-compose run --rm cfb-trivia

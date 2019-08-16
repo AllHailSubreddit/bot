@@ -1,6 +1,6 @@
 # Example docker-compose file for running this docker container with various options.
 # 1. Update the options to suit your needs
-# 2. Place the file somewhere like /etc/opt/bot/ or ~/
+# 2. Place the file somewhere like /etc/opt/allhail/bot/ or ~/
 version: '3.7'
 services:
   cfb-trivia:
