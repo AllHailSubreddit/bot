@@ -1,5 +1,6 @@
 {
   "name": "migrate",
   "version": "1.0.0",
-  "author": "/u/pushECX"
+  "author": "/u/pushECX",
+  "private": true
 }
