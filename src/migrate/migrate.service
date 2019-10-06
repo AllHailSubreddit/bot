@@ -1,6 +1,6 @@
 [Unit]
-Description=Migrates the bot database
-Documentation=https://github.com/AllHailSubreddit/bot/tree/master/src/cfb-trivia
+Description=Migrates the allhailbot database
+Documentation=https://github.com/AllHailSubreddit/bot/tree/master/src/migrate
 Documentation=https://github.com/AllHailSubreddit/bot/
 After=docker.service
 Requires=docker.service
