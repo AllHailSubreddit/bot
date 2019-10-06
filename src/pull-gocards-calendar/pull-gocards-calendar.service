@@ -1,0 +1,10 @@
+[Unit]
+Description=Retrieves the latest game events from the gocards.com calendar
+Documentation=https://github.com/AllHailSubreddit/bot/tree/master/src/pull-gocards-calendar
+Documentation=https://github.com/AllHailSubreddit/bot/
+After=docker.service
+Requires=docker.service
+
+[Service]
+WorkingDirectory=/etc/opt/allhail/bot
+ExecStart=/usr/local/bin/docker-compose run --rm pull-gocards-calendar

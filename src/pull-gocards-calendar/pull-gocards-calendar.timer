@@ -1,0 +1,10 @@
+[Unit]
+Description=Triggers pull-gocards-calendar.service
+Documentation=https://github.com/AllHailSubreddit/bot/tree/master/pull-gocards-calendar
+Documentation=https://github.com/AllHailSubreddit/bot/
+
+[Install]
+WantedBy=timers.target
+
+[Timer]
+OnCalendar=00/4:00
