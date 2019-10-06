@@ -5,27 +5,33 @@
   "private": true,
   "scripts": {
     "lint": "eslint .",
-    "test": "jest --silent"
+    "test": "jest"
   },
   "devDependencies": {
-    "eslint": "6.1.0",
-    "eslint-config-prettier": "6.0.0",
-    "eslint-plugin-prettier": "3.1.0",
-    "husky": "3.0.3",
-    "jest": "24.8.0",
-    "pino-pretty": "3.2.0",
+    "eslint": "6.5.1",
+    "eslint-config-prettier": "6.4.0",
+    "eslint-plugin-prettier": "3.1.1",
+    "husky": "3.0.8",
+    "jest": "24.9.0",
+    "nock": "11.3.6",
+    "pino-pretty": "3.2.1",
     "prettier": "1.18.2"
   },
   "dependencies": {
+    "@sindresorhus/slugify": "0.9.1",
     "axios": "0.19.0",
-    "dotenv": "8.0.0",
+    "dotenv": "8.1.0",
+    "fast-xml-parser": "3.13.0",
     "fs-extra": "8.1.0",
-    "knex": "0.19.1",
+    "he": "1.2.0",
+    "knex": "0.19.5",
     "lodash": "4.17.15",
     "moment-timezone": "0.5.26",
-    "mustache": "3.0.1",
-    "objection": "1.6.9",
-    "pino": "5.13.2",
+    "mustache": "3.1.0",
+    "node-fetch": "2.6.0",
+    "objection": "1.6.11",
+    "pg": "7.12.1",
+    "pino": "5.13.4",
     "snoowrap": "1.19.0"
   }
 }
