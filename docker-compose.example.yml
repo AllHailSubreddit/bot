@@ -3,14 +3,18 @@
 # 2. Place the file somewhere like /etc/opt/allhail/bot/ or ~/
 version: '3.7'
 services:
-  cfb-trivia:
-    image: allhail/bot:latest
-    env_file: .env
-    command: cfb-trivia
   migrate:
     image: allhail/bot:latest
     env_file: .env
-    command: migrate
+    command: ["migrate"]
+  cfb-trivia:
+    image: allhail/bot:latest
+    env_file: .env
+    command: ["cfb-trivia"]
+  pull-gocards-calendar:
+    image: allhail/bot:latest
+    env_file: .env
+    command: ["pull-gocards-calendar"]
   postgres:
     image: postgres:11.5-alpine
     env_file: .env
