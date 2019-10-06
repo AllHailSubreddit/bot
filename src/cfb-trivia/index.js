@@ -1,19 +1,21 @@
 const {
-  LOG_LEVEL,
   REDDIT_CLIENT_ID,
   REDDIT_CLIENT_SECRET,
   REDDIT_PASSWORD,
   REDDIT_SUBREDDIT,
   REDDIT_USERNAME,
 } = process.env;
-const { name: NAME, version: VERSION, author: AUTHOR } = require("./package");
-const pino = require("pino");
+const {
+  name: TASK_NAME,
+  version: VERSION,
+  author: AUTHOR,
+} = require("./package");
 const Snoowrap = require("snoowrap");
+const logger = require("../lib/logger");
 
-// globals
-const logger = pino({ level: LOG_LEVEL });
+const log = logger.child({ task: TASK_NAME });
 const reddit = new Snoowrap({
-  userAgent: `nodejs:org.allhail.bot.${NAME}:v${VERSION} (by ${AUTHOR})`,
+  userAgent: `nodejs:org.allhail.bot.${TASK_NAME}:v${VERSION} (by ${AUTHOR})`,
   clientId: REDDIT_CLIENT_ID,
   clientSecret: REDDIT_CLIENT_SECRET,
   username: REDDIT_USERNAME,
@@ -21,7 +23,8 @@ const reddit = new Snoowrap({
 });
 
 async function main() {
-  logger.info("start");
+  const start = process.hrtime();
+  log.info("start");
 
   try {
     const [result] = await reddit.search({
@@ -34,12 +37,15 @@ async function main() {
 
     // return early if no post was found
     if (!result) {
-      logger.error("no submission found");
-      logger.info("complete");
+      log.info("no submission found");
+      // log duration
+      const [endSecs, endNanos] = process.hrtime(start);
+      const duration = endNanos[0] / 1e9 + endSecs[1];
+      log.info({ duration }, "complete");
       return;
     }
 
-    logger.info(`found trivia submission: ${result.url}`);
+    log.info(`found trivia submission: ${result.url}`);
     const submission = await reddit
       .getSubreddit(REDDIT_SUBREDDIT)
       .submitLink({
@@ -49,7 +55,7 @@ async function main() {
         resubmit: false,
       })
       .fetch();
-    logger.info(`created submission: ${submission.permalink}`);
+    log.info(`created submission: ${submission.permalink}`);
     await submission.distinguish();
     const comment = await submission
       .reply(
@@ -67,12 +73,15 @@ please message the moderators.*`
       )
       .fetch();
     await comment.distinguish({ sticky: true });
-    logger.info(`created comment: ${comment.permalink}`);
+    log.info(`created comment: ${comment.permalink}`);
   } catch (error) {
-    logger.error(error);
+    log.error(error);
   }
 
-  logger.info("complete");
+  // log duration
+  const [endSecs, endNanos] = process.hrtime(start);
+  const duration = endNanos[0] / 1e9 + endSecs[1];
+  log.info({ duration }, "complete");
 }
 
 // call main() if this file is the entry script
