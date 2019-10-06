@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ev="http://purl.org/rss/1.0/modules/event/" xmlns:s="http://sidearmsports.com/schemas/cal_rss/1.0/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>University of Louisville Athletics</title><link>https://gocards.com</link><atom:link rel="self" href="https://gocards.com/calendar.ashx/calendar.rss?sport_id=0" />
+<description> </description>
+<item>
+<title>8/16 7:00 PM [W] University of Louisville Men&#39;s Soccer vs Lipscomb (Exhibition)</title>
+<description>[W] University of Louisville Men&#39;s Soccer vs Lipscomb (Exhibition)\nW 2-1\n https://gocards.com/calendar.aspx?id=18413</description>
+<link>https://gocards.com/calendar.aspx?id=18413</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18413</guid><ev:location>LOUISVILLE, KY, Dr. Mark &amp; Cindy Lynn Stadium</ev:location>
+<ev:startdate>2019-08-16T23:00:00.0000000Z</ev:startdate>
+<ev:enddate>2019-08-17T01:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-08-16T19:00:00.0000000</s:localstartdate>
+<s:localenddate>2019-08-16T21:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/LStandalonecolor.png</s:opponentlogo>
+<s:opponent>Lipscomb (Exhibition)</s:opponent>
+<s:gameid>18413</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+<item>
+<title>8/22 7:00 PM [W] University of Louisville Women&#39;s Soccer at Ohio State </title>
+<description>[W] University of Louisville Women&#39;s Soccer at Ohio State \nW 2-1\n https://gocards.com/calendar.aspx?id=18889</description>
+<link>https://gocards.com/calendar.aspx?id=18889</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18889</guid><ev:location>Columbus, OH</ev:location>
+<ev:startdate>2019-08-22T23:00:00.0000000Z</ev:startdate>
+<ev:enddate>2019-08-23T01:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-08-22T19:00:00.0000000</s:localstartdate>
+<s:localenddate>2019-08-22T21:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/ohio_state_logo.png</s:opponentlogo>
+<s:opponent>Ohio State </s:opponent>
+<s:gameid>18889</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+<item>
+<title>8/24 3:00 PM University of Louisville Women&#39;s Volleyball vs Miami University (OH)</title>
+<description>University of Louisville Women&#39;s Volleyball vs Miami University (OH)\n https://gocards.com/calendar.aspx?id=18434</description>
+<link>https://gocards.com/calendar.aspx?id=18434</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18434</guid><ev:location>LOUISVILLE, KY, L&amp;N Federal Credit Union Arena</ev:location>
+<ev:startdate>2019-08-24T19:00:00.0000000Z</ev:startdate>
+<ev:enddate>2019-08-24T21:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-08-24T15:00:00.0000000</s:localstartdate>
+<s:localenddate>2019-08-24T17:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/Miami-OH.png</s:opponentlogo>
+<s:opponent>Miami University (OH)</s:opponent>
+<s:gameid>18434</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+<item>
+<title>8/30 3:00 PM [W] University of Louisville Field Hockey vs INDIANA</title>
+<description>[W] University of Louisville Field Hockey vs INDIANA\nW 5-0\nTV: ACC Network Extra\nStreaming Video: http://www.espn.com/watch?id=cbcdc640-0819-430f-9d78-135c9c367dff\n https://gocards.com/calendar.aspx?id=18373</description>
+<link>https://gocards.com/calendar.aspx?id=18373</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18373</guid><ev:location>LOUISVILLE, KY, Trager Stadium</ev:location>
+<ev:startdate>2019-08-30T19:00:00.0000000Z</ev:startdate>
+<ev:enddate>2019-08-30T22:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-08-30T15:00:00.0000000</s:localstartdate>
+<s:localenddate>2019-08-30T18:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/Indiana-University.png</s:opponentlogo>
+<s:opponent>INDIANA</s:opponent>
+<s:gameid>18373</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+<s:livestats>http://www.sidearmstats.com/louisville/fhockey/</s:livestats>
+</s:links>
+</item>
+<item>
+<title>9/2 8:00 PM [L] University of Louisville Football vs NOTRE DAME</title>
+<description>[L] University of Louisville Football vs NOTRE DAME\nL 17-35\nTV: ESPN\nStreaming Video: http://www.espn.com/watch?id=bcb4776f-ae2f-4903-9c64-b5b81230d7ca\nStreaming Audio: http://gocards.com/showcase?Live=7305\n https://gocards.com/calendar.aspx?id=18338</description>
+<link>https://gocards.com/calendar.aspx?id=18338</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18338</guid><ev:location>LOUISVILLE, KY, Cardinal Stadium</ev:location>
+<ev:startdate>2019-09-03T00:00:00.0000001Z</ev:startdate>
+<ev:enddate>2019-09-03T03:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-09-02T20:00:00.0000000</s:localstartdate>
+<s:localenddate>2019-09-02T23:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/und_all_gold.png</s:opponentlogo>
+<s:opponent>NOTRE DAME</s:opponent>
+<s:gameid>18338</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+<s:livestats>https://gocards.com/sidearmstats/football/summary</s:livestats>
+</s:links>
+</item>
+<item>
+<title>9/7 12:30 PM University of Louisville Softball vs EKU</title>
+<description>University of Louisville Softball vs EKU\n https://gocards.com/calendar.aspx?id=19014</description>
+<link>https://gocards.com/calendar.aspx?id=19014</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=19014</guid><ev:location>LOUISVILLE, KY, Ulmer Stadium</ev:location>
+<ev:startdate>2019-09-07T16:30:00.0000000Z</ev:startdate>
+<ev:enddate>2019-09-07T18:30:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-09-07T12:30:00.0000000</s:localstartdate>
+<s:localenddate>2019-09-07T14:30:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/eku_logo.png</s:opponentlogo>
+<s:opponent>EKU</s:opponent>
+<s:gameid>19014</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+<item>
+<title>9/9 10:15 AM [N] University of Louisville Women&#39;s Golf  Minnesota Invitational</title>
+<description>[N] University of Louisville Women&#39;s Golf  Minnesota Invitational\n 10th of 15\n https://gocards.com/calendar.aspx?id=18916</description>
+<link>https://gocards.com/calendar.aspx?id=18916</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18916</guid><ev:location>Woodbury, MN</ev:location>
+<ev:startdate>2019-09-09T14:15:00.0000000Z</ev:startdate>
+<ev:enddate>2019-09-09T17:15:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-09-09T10:15:00.0000000</s:localstartdate>
+<s:localenddate>2019-09-09T13:15:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/Minnesota.png</s:opponentlogo>
+<s:opponent>Minnesota Invitational</s:opponent>
+<s:gameid>18916</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+<s:livestats>http://results.golfstat.com//public/leaderboards/gsnav.cfm?pg=participants&amp;tid=18217</s:livestats>
+</s:links>
+</item>
+<item>
+<title>9/14 University of Louisville Cross Country at Commodore Classic</title>
+<description>University of Louisville Cross Country at Commodore Classic\n https://gocards.com/calendar.aspx?id=18945</description>
+<link>https://gocards.com/calendar.aspx?id=18945</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18945</guid><ev:location>Nashville, TN</ev:location>
+<ev:startdate>2019-09-14</ev:startdate>
+<ev:enddate>2019-09-14T07:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-09-14</s:localstartdate>
+<s:localenddate>2019-09-14T03:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/Vanderbilt_Commodores.png</s:opponentlogo>
+<s:opponent>Commodore Classic</s:opponent>
+<s:gameid>18945</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+<item>
+<title>9/14 [N] University of Louisville Men&#39;s Golf  Duke Invitational</title>
+<description>[N] University of Louisville Men&#39;s Golf  Duke Invitational\n 3rd of 13 teams\n https://gocards.com/calendar.aspx?id=18977</description>
+<link>https://gocards.com/calendar.aspx?id=18977</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18977</guid><ev:location>Durham, N.C.</ev:location>
+<ev:startdate>2019-09-14</ev:startdate>
+<ev:enddate>2019-09-14T07:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-09-14</s:localstartdate>
+<s:localenddate>2019-09-14T03:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo></s:opponentlogo>
+<s:opponent>Duke Invitational</s:opponent>
+<s:gameid>18977</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+<item>
+<title>9/20 University of Louisville Women&#39;s Golf  Mason Rudolph Championship </title>
+<description>University of Louisville Women&#39;s Golf  Mason Rudolph Championship \n https://gocards.com/calendar.aspx?id=18918</description>
+<link>https://gocards.com/calendar.aspx?id=18918</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18918</guid><ev:location>Franklin, TN</ev:location>
+<ev:startdate>2019-09-20</ev:startdate>
+<ev:enddate>2019-09-20T07:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-09-20</s:localstartdate>
+<s:localenddate>2019-09-20T03:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/Vanderbilt_Commodores.png</s:opponentlogo>
+<s:opponent>Mason Rudolph Championship </s:opponent>
+<s:gameid>18918</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+<s:livestats>http://results.golfstat.com//public/leaderboards/gsnav.cfm?pg=participants&amp;tid=18181</s:livestats>
+</s:links>
+</item>
+<item>
+<title>9/20 University of Louisville Women&#39;s Tennis vs Purdue  </title>
+<description>University of Louisville Women&#39;s Tennis vs Purdue  \n https://gocards.com/calendar.aspx?id=19361</description>
+<link>https://gocards.com/calendar.aspx?id=19361</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=19361</guid><ev:location>W. Lafayette, IN </ev:location>
+<ev:startdate>2019-09-20</ev:startdate>
+<ev:enddate>2019-09-22T03:59:59.9999999Z</ev:enddate>
+<s:localstartdate>2019-09-20</s:localstartdate>
+<s:localenddate>2019-09-21T23:59:59.9999999</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/Purdue.png</s:opponentlogo>
+<s:opponent>Purdue  </s:opponent>
+<s:gameid>19361</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+<item>
+<title>10/4 3:00 PM University of Louisville Swimming &amp; Diving vs Xavier University</title>
+<description>University of Louisville Swimming &amp; Diving vs Xavier University\n https://gocards.com/calendar.aspx?id=19436</description>
+<link>https://gocards.com/calendar.aspx?id=19436</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=19436</guid><ev:location>LOUISVILLE, KY, Ralph Wright Natatorium</ev:location>
+<ev:startdate>2019-10-04T19:00:00.0000000Z</ev:startdate>
+<ev:enddate>2019-10-04T22:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-10-04T15:00:00.0000000</s:localstartdate>
+<s:localenddate>2019-10-04T18:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/Xavier_.png</s:opponentlogo>
+<s:opponent>Xavier University</s:opponent>
+<s:gameid>19436</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+<item>
+<title>10/29 University of Louisville Men&#39;s Basketball vs Bellarmine (EX)</title>
+<description>University of Louisville Men&#39;s Basketball vs Bellarmine (EX)\n https://gocards.com/calendar.aspx?id=18964</description>
+<link>https://gocards.com/calendar.aspx?id=18964</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18964</guid><ev:location>LOUISVILLE, KY, KFC Yum! Center</ev:location>
+<ev:startdate>2019-10-29</ev:startdate>
+<ev:enddate>2019-10-29T06:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-10-29</s:localstartdate>
+<s:localenddate>2019-10-29T02:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/Bellarmine.png</s:opponentlogo>
+<s:opponent>Bellarmine (EX)</s:opponent>
+<s:gameid>18964</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+<item>
+<title>11/5 7:00 PM University of Louisville Women&#39;s Basketball vs WESTERN KENTUCKY</title>
+<description>University of Louisville Women&#39;s Basketball vs WESTERN KENTUCKY\n https://gocards.com/calendar.aspx?id=18951</description>
+<link>https://gocards.com/calendar.aspx?id=18951</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18951</guid><ev:location>LOUISVILLE, KY, KFC Yum! Center</ev:location>
+<ev:startdate>2019-11-06T00:00:00.0000001Z</ev:startdate>
+<ev:enddate>2019-11-06T02:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-11-05T19:00:00.0000000</s:localstartdate>
+<s:localenddate>2019-11-05T21:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/WKU_Red_Towel.png</s:opponentlogo>
+<s:opponent>WESTERN KENTUCKY</s:opponent>
+<s:gameid>18951</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+</channel>
+</rss>

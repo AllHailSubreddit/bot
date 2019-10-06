@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ev="http://purl.org/rss/1.0/modules/event/" xmlns:s="http://sidearmsports.com/schemas/cal_rss/1.0/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>Football - gocards.com</title><link>https://gocards.com</link><atom:link rel="self" href="https://gocards.com/calendar.ashx/calendar.rss?sport_id=3" />
+<description> </description>
+<item>
+<title>9/2 8:00 PM University of Louisville Football vs NOTRE DAME</title>
+<description>University of Louisville Football vs NOTRE DAME\nTV: ESPN\n https://gocards.com/calendar.aspx?id=18338</description>
+<link>https://gocards.com/calendar.aspx?id=18338</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18338</guid><ev:location>LOUISVILLE, KY, Cardinal Stadium</ev:location>
+<ev:startdate>2019-09-03T00:00:00.0000001Z</ev:startdate>
+<ev:enddate>2019-09-03T03:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-09-02T20:00:00.0000000</s:localstartdate>
+<s:localenddate>2019-09-02T23:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/und_all_gold.png</s:opponentlogo>
+<s:opponent>NOTRE DAME</s:opponent>
+<s:gameid>18338</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+<item>
+<title>9/7 7:00 PM University of Louisville Football vs EASTERN KENTUCKY</title>
+<description>University of Louisville Football vs EASTERN KENTUCKY\nTV: ACC Network Extra\n https://gocards.com/calendar.aspx?id=18339</description>
+<link>https://gocards.com/calendar.aspx?id=18339</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18339</guid><ev:location>LOUISVILLE, KY, Cardinal Stadium</ev:location>
+<ev:startdate>2019-09-07T23:00:00.0000000Z</ev:startdate>
+<ev:enddate>2019-09-08T02:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-09-07T19:00:00.0000000</s:localstartdate>
+<s:localenddate>2019-09-07T22:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/eku_logo.png</s:opponentlogo>
+<s:opponent>EASTERN KENTUCKY</s:opponent>
+<s:gameid>18339</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+<item>
+<title>9/14 4:00 PM University of Louisville Football vs Western Kentucky</title>
+<description>University of Louisville Football vs Western Kentucky\n https://gocards.com/calendar.aspx?id=18340</description>
+<link>https://gocards.com/calendar.aspx?id=18340</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18340</guid><ev:location>Nashville, TN</ev:location>
+<ev:startdate>2019-09-14T20:00:00.0000000Z</ev:startdate>
+<ev:enddate>2019-09-14T23:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-09-14T16:00:00.0000000</s:localstartdate>
+<s:localenddate>2019-09-14T19:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/WKU_Red_Towel.png</s:opponentlogo>
+<s:opponent>Western Kentucky</s:opponent>
+<s:gameid>18340</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+<item>
+<title>9/21 University of Louisville Football at Florida State</title>
+<description>University of Louisville Football at Florida State\n https://gocards.com/calendar.aspx?id=18346</description>
+<link>https://gocards.com/calendar.aspx?id=18346</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18346</guid><ev:location>Tallahassee, FL</ev:location>
+<ev:startdate>2019-09-21</ev:startdate>
+<ev:enddate>2019-09-21T07:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-09-21</s:localstartdate>
+<s:localenddate>2019-09-21T03:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/Florida-State.png</s:opponentlogo>
+<s:opponent>Florida State</s:opponent>
+<s:gameid>18346</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+<item>
+<title>10/5 University of Louisville Football vs BOSTON COLLEGE</title>
+<description>University of Louisville Football vs BOSTON COLLEGE\n https://gocards.com/calendar.aspx?id=18341</description>
+<link>https://gocards.com/calendar.aspx?id=18341</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18341</guid><ev:location>LOUISVILLE, KY, Cardinal Stadium</ev:location>
+<ev:startdate>2019-10-05</ev:startdate>
+<ev:enddate>2019-10-05T07:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-10-05</s:localstartdate>
+<s:localenddate>2019-10-05T03:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/Boston-College.png</s:opponentlogo>
+<s:opponent>BOSTON COLLEGE</s:opponent>
+<s:gameid>18341</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+<item>
+<title>10/12 University of Louisville Football at Wake Forest</title>
+<description>University of Louisville Football at Wake Forest\n https://gocards.com/calendar.aspx?id=18342</description>
+<link>https://gocards.com/calendar.aspx?id=18342</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18342</guid><ev:location>Winston-Salem, NC</ev:location>
+<ev:startdate>2019-10-12</ev:startdate>
+<ev:enddate>2019-10-12T07:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-10-12</s:localstartdate>
+<s:localenddate>2019-10-12T03:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/Wake_Forest.png</s:opponentlogo>
+<s:opponent>Wake Forest</s:opponent>
+<s:gameid>18342</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+<item>
+<title>10/19 University of Louisville Football vs CLEMSON</title>
+<description>University of Louisville Football vs CLEMSON\n https://gocards.com/calendar.aspx?id=18348</description>
+<link>https://gocards.com/calendar.aspx?id=18348</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18348</guid><ev:location>LOUISVILLE, KY, Cardinal Stadium</ev:location>
+<ev:startdate>2019-10-19</ev:startdate>
+<ev:enddate>2019-10-19T07:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-10-19</s:localstartdate>
+<s:localenddate>2019-10-19T03:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/Clemson.png</s:opponentlogo>
+<s:opponent>CLEMSON</s:opponent>
+<s:gameid>18348</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+<item>
+<title>10/26 University of Louisville Football vs VIRGINIA</title>
+<description>University of Louisville Football vs VIRGINIA\n https://gocards.com/calendar.aspx?id=18349</description>
+<link>https://gocards.com/calendar.aspx?id=18349</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18349</guid><ev:location>LOUISVILLE, KY, Cardinal Stadium</ev:location>
+<ev:startdate>2019-10-26</ev:startdate>
+<ev:enddate>2019-10-26T07:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-10-26</s:localstartdate>
+<s:localenddate>2019-10-26T03:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/Virginia.png</s:opponentlogo>
+<s:opponent>VIRGINIA</s:opponent>
+<s:gameid>18349</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+<item>
+<title>11/9 University of Louisville Football at Miami</title>
+<description>University of Louisville Football at Miami\n https://gocards.com/calendar.aspx?id=18343</description>
+<link>https://gocards.com/calendar.aspx?id=18343</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18343</guid><ev:location>Coral Gables, FL</ev:location>
+<ev:startdate>2019-11-09</ev:startdate>
+<ev:enddate>2019-11-09T08:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-11-09</s:localstartdate>
+<s:localenddate>2019-11-09T03:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/Miami.png</s:opponentlogo>
+<s:opponent>Miami</s:opponent>
+<s:gameid>18343</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+<item>
+<title>11/16 University of Louisville Football at NC State</title>
+<description>University of Louisville Football at NC State\n https://gocards.com/calendar.aspx?id=18347</description>
+<link>https://gocards.com/calendar.aspx?id=18347</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18347</guid><ev:location>Raleigh, NC</ev:location>
+<ev:startdate>2019-11-16</ev:startdate>
+<ev:enddate>2019-11-16T08:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-11-16</s:localstartdate>
+<s:localenddate>2019-11-16T03:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/wolf_head.png</s:opponentlogo>
+<s:opponent>NC State</s:opponent>
+<s:gameid>18347</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+<item>
+<title>11/23 University of Louisville Football vs Syracuse</title>
+<description>University of Louisville Football vs Syracuse\n https://gocards.com/calendar.aspx?id=18344</description>
+<link>https://gocards.com/calendar.aspx?id=18344</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18344</guid><ev:location>LOUISVILLE, KY, Cardinal Stadium</ev:location>
+<ev:startdate>2019-11-23</ev:startdate>
+<ev:enddate>2019-11-23T08:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-11-23</s:localstartdate>
+<s:localenddate>2019-11-23T03:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/Syracuse.png</s:opponentlogo>
+<s:opponent>Syracuse</s:opponent>
+<s:gameid>18344</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+<item>
+<title>11/30 University of Louisville Football at Kentucky</title>
+<description>University of Louisville Football at Kentucky\n https://gocards.com/calendar.aspx?id=18345</description>
+<link>https://gocards.com/calendar.aspx?id=18345</link><guid isPermaLink="true">https://gocards.com/calendar.aspx?id=18345</guid><ev:location>Lexington, KY</ev:location>
+<ev:startdate>2019-11-30</ev:startdate>
+<ev:enddate>2019-11-30T08:00:00.0000000Z</ev:enddate>
+<s:localstartdate>2019-11-30</s:localstartdate>
+<s:localenddate>2019-11-30T03:00:00.0000000</s:localenddate>
+<s:teamlogo>https://gocards.com/images/logos/site/site.png</s:teamlogo>
+<s:opponentlogo>https://gocards.com/images/logos/Kentucky.png</s:opponentlogo>
+<s:opponent>Kentucky</s:opponent>
+<s:gameid>18345</s:gameid>
+<s:gamepromoname></s:gamepromoname>
+<s:links>
+</s:links>
+</item>
+</channel>
+</rss>
